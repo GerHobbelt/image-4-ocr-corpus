@@ -128,3 +128,27 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+# other test corpuses
+/Categorical.Image.Quality.CSIQ.Database.QUALINET
+other-corpuses/ConText-WordAnnotation
+other-corpuses/DIBC02009_Test_images-handwritten
+other-corpuses/DIBCO11-handwritten
+other-corpuses/DIBCO11-machine_printed
+other-corpuses/DIBCO2009-GT-Test-images_handwritten
+other-corpuses/DIBCO2009-GT-Test-images_printed
+other-corpuses/DIBCO2009_Test_images-printed
+other-corpuses/DIBCO2013-dataset
+other-corpuses/DIBCO2016_BinEvalWeights
+other-corpuses/DIBCO2016_dataset-GT
+other-corpuses/DIBCO2016_dataset-original
+other-corpuses/DIBCO2016_DIBCO_metrics
+other-corpuses/DIBCO2017_BinEvalWeights
+other-corpuses/DIBCO_metrics
+other-corpuses/H-DIBCO2012-dataset
+other-corpuses/HDIBCO2014-GT
+other-corpuses/HDIBCO2014-original_images
+other-corpuses/H_DIBCO2010_GT
+other-corpuses/H_DIBCO2010_test_images
+other-corpuses/PHIBD2012-GT
+other-corpuses/PHIBD2012-Original
