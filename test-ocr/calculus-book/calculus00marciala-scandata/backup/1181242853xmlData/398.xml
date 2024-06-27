@@ -1,0 +1,17 @@
+
+    <page leafNum="398">
+      <handSide>LEFT</handSide>
+      <pageNumber></pageNumber>
+      <pageType>Cover</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <rotateDegree>270</rotateDegree>
+      <skewActive>true</skewActive>
+      <skewAngle>0.6</skewAngle>
+      <skewAngleDetect>-1.844</skewAngleDetect>
+      <skewScore>1.73</skewScore>
+      <paperLum>21</paperLum>
+      <threshold>1</threshold>
+      <gmtTimeStamp>20070607143147</gmtTimeStamp>
+      <cropBox><x>708.0</x><y>986.0</y><w>1896.0</w><h>2894.0</h></cropBox>
+      <pageNumBox><x>1004.0</x><y>1066.0</y><w>342.0</w><h>284.0</h></pageNumBox>
+    </page>

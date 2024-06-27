@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<book xmlns="http://archive.org/scribe/xml">
+  <bookData>
+    <version>2.2.4</version>
+    <bookId>calculus00marciala</bookId>
+    <spreadCount>195</spreadCount>
+    <leafCount>388</leafCount>
+    <maxSpreadNum>195</maxSpreadNum>
+    <cameraModel>5D</cameraModel>
+    <leftCameraId>1020707124</leftCameraId>
+    <rightCameraId>1721200377</rightCameraId>
+    <dpi>400</dpi>
+    <jpgToCr2Multiplier>1.427725</jpgToCr2Multiplier>
+    <pageNumData>
+      <assertion>
+        <leafNum>9</leafNum>
+        <pageNum>v</pageNum>
+      </assertion>
+      <assertion>
+        <leafNum>21</leafNum>
+        <pageNum>1</pageNum>
+      </assertion>
+      <assertion>
+        <leafNum>219</leafNum>
+        <pageNum>199</pageNum>
+      </assertion>
+      <assertion>
+        <leafNum>319</leafNum>
+        <pageNum>299</pageNum>
+      </assertion>
+      <assertion>
+        <leafNum>380</leafNum>
+        <pageNum>360</pageNum>
+      </assertion>
+    </pageNumData>
+  </bookData>
+</book>

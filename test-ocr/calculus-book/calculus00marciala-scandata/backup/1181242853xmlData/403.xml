@@ -1,0 +1,17 @@
+
+    <page leafNum="403">
+      <handSide>RIGHT</handSide>
+      <pageNumber></pageNumber>
+      <pageType>White Card</pageType>
+      <addToAccessFormats>false</addToAccessFormats>
+      <rotateDegree>90</rotateDegree>
+      <skewActive>false</skewActive>
+      <skewAngle>0.0</skewAngle>
+      <skewAngleDetect>0.0</skewAngleDetect>
+      <skewScore>0.0</skewScore>
+      <paperLum>203</paperLum>
+      <threshold>176</threshold>
+      <gmtTimeStamp>20070607144410</gmtTimeStamp>
+      <cropBox><x>564.0</x><y>1072.0</y><w>1896.0</w><h>2894.0</h></cropBox>
+      <pageNumBox><x>1564.0</x><y>1204.0</y><w>342.0</w><h>284.0</h></pageNumBox>
+    </page>
